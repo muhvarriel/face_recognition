@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.py[cod]
+.face_cache.pkl
+.DS_Store
+
